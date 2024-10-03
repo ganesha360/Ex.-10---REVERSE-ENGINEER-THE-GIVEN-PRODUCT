@@ -36,8 +36,8 @@
 ### Output:
 ![image](https://github.com/SamyukthaSreenivasan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475703/601f00ce-644c-40a2-9e8b-15c9025b0299)
 
-### Name:IYYANAR S
-### Register Number:212222240036
+### Name: GANESH R
+### Register Number: 212222240029
 
 ## RESULT:
 ###  Thus the given product is reverse engineered and prototyped using 3D Printer.
